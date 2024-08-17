@@ -1,4 +1,2 @@
-# ammri
-hi good morning
-hello
-hi
+
+hi ammri
